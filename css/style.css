@@ -633,7 +633,7 @@ h1, h2, h3, h4, h5,
 
     .intro-section {
       position: relative;
-      background-image: url("/images/pexels-victor-freitas-949131.jpg");
+      background-image: url("images/pexels-victor-freitas-949131.jpg");
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
